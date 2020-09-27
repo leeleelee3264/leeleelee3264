@@ -26,7 +26,11 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/trello-226534.png">
 <br />
 
-### 여기다가 스테이터스 넣어야겠다. 
+### Additional Info
+---
+<img align="left" alt="absinthe4902's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=absinthe4902&show_icons=true&hide_border=true&theme=radical" />
+<br />
+<img align="left" alt="absinthe4902's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=absinthe4902&layout=compact" />
 
 <br />
 <br />
@@ -36,25 +40,14 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Git: Making forked repo to standalone repo](https://absinthe4902.github.io/forked-repo-commit/)
+- [Java: Unchecked & checked Exception and Mybatis Exception](https://absinthe4902.github.io/mybatis-exception/)
+- [Git: Git cheat sheet for myself](https://absinthe4902.github.io/git-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://absinth4902.github.io)
 
----
+<br />
+### Fun fact 
 
-<details>
-  <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
-</details>
-
-[website]: https://codeSTACKr.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
