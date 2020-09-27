@@ -28,13 +28,11 @@
 
 ### Additional Info
 ---
-<img align="left" alt="absinthe4902's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=absinthe4902&show_icons=true&hide_border=true&theme=radical" />
+![Jamie's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=absinthe4902&show_icons=true&hide_border=true&theme=radical)
 <br />
-<img align="left" alt="absinthe4902's Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=absinthe4902&layout=compact" />
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absinthe4902&layout=compact)
 <br />
 <br />
-
 ---
 
 ### 📕 Latest Blog Posts
@@ -46,8 +44,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://absinth4902.github.io)
+---
 
-<br />
-### Fun fact 
 
 
