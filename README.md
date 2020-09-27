@@ -25,9 +25,9 @@
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/en/4/45/Notion_app_logo.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.iconscout.com/icon/free/png-256/trello-226534.png">
 <br />
-
-### Additional Info
+<br />
 ---
+### Additional Info
 ![Jamie's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=absinthe4902&show_icons=true&hide_border=true&theme=radical)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absinthe4902&layout=compact)
@@ -42,8 +42,7 @@
 - [Java: Unchecked & checked Exception and Mybatis Exception](https://absinthe4902.github.io/mybatis-exception/)
 - [Git: Git cheat sheet for myself](https://absinthe4902.github.io/git-cheat-sheet/)
 <!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://absinth4902.github.io)
+[more blog posts...](https://absinth4902.github.io/) 
 ---
 
 
