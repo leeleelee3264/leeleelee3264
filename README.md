@@ -1,9 +1,9 @@
-## Hi there, I'm Jamie Seungmin Lee, here is something about me.
+## Hi! I'm Jamie Seungmin Lee, here is something about me.
 
 - I’m currently working as a junior web/server developer for elder health care company 
 - I'm learning deeper on Java and Python! 
 - I’m looking to collaborate with other amazing developers.
-- Goals: Contribute more to Open Source projects
+- The Goal of This 2020: Start contributing fantastic open source projects & one day one commit.
 <br />
 
 ### Languages and Tools:
@@ -27,24 +27,21 @@
 <br />
 
 
-### Additional Info
+Additional Info
 ---
 ![Jamie's github stats](https://github-readme-stats.codestackr.vercel.app/api?username=absinthe4902&show_icons=true&hide_border=true&theme=radical)
 <br />
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=absinthe4902&layout=compact)
 <br />
-<br />
 ---
 
 ### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
 - [Git: Making forked repo to standalone repo](https://absinthe4902.github.io/forked-repo-commit/)
 - [Java: Unchecked & checked Exception and Mybatis Exception](https://absinthe4902.github.io/mybatis-exception/)
 - [Git: Git cheat sheet for myself](https://absinthe4902.github.io/git-cheat-sheet/)
-<!-- BLOG-POST-LIST:END -->
-[more blog posts...](https://absinth4902.github.io/) https://absinthe4902.github.io/
----
+<br />
+[more](https://absinth4902.github.io/)
+
 
 
 
