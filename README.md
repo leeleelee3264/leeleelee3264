@@ -4,6 +4,7 @@
 - I'm learning deeper on Java and Python! 
 - I’m looking to collaborate with other amazing developers.
 - The Goal of This 2020: Start contributing fantastic open source projects & one day one commit.
+- My personal tech blog is over [here!](https://absinth4902.github.io/)
 <br />
 
 ### Languages and Tools:
@@ -11,7 +12,6 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png">
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png">
 <img align="left" alt="Spring" width="26px" src="https://spring-petclinic.github.io/images/logo-spring.png">
-<img align="left" alt="Django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/IntelliJ_IDEA_Logo.svg/600px-IntelliJ_IDEA_Logo.svg.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://brandslogos.com/wp-content/uploads/images/large/django-logo.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png">
@@ -39,8 +39,7 @@ Additional Info
 - [Git: Making forked repo to standalone repo](https://absinthe4902.github.io/forked-repo-commit/)
 - [Java: Unchecked & checked Exception and Mybatis Exception](https://absinthe4902.github.io/mybatis-exception/)
 - [Git: Git cheat sheet for myself](https://absinthe4902.github.io/git-cheat-sheet/)
-<br />
-[more](https://absinth4902.github.io/)
+
 
 
 
