@@ -4,7 +4,7 @@
 - I'm learning deeper on Java and Python! 
 - I’m looking to collaborate with other amazing developers.
 - The Goal of This 2020: Start contributing fantastic open source projects & one day one commit.
-- My personal tech blog is over [here!](https://absinth4902.github.io/)
+- My personal tech blog is over [here!](https://leeleelee3264.github.io/)
 <br />
 
 ### Languages and Tools:
@@ -36,9 +36,9 @@ Additional Info
 ---
 
 ### 📕 Latest Blog Posts
-- [Git: Making forked repo to standalone repo](https://absinthe4902.github.io/forked-repo-commit/)
-- [Java: Unchecked & checked Exception and Mybatis Exception](https://absinthe4902.github.io/mybatis-exception/)
-- [Git: Git cheat sheet for myself](https://absinthe4902.github.io/git-cheat-sheet/)
+- [Git: Making forked repo to standalone repo](https://leeleelee3264.github.io/forked-repo-commit/)
+- [Java: Unchecked & checked Exception and Mybatis Exception](https://leeleelee3264.github.io/mybatis-exception/)
+- [Git: Git cheat sheet for myself](https://leeleelee3264.github.io/git-cheat-sheet/)
 
 
 
