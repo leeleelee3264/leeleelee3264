@@ -1,12 +1,14 @@
 
 
+## Main thought of 2021 
+:boom: How to write an understandable and manageable code. :boom:
 
 ## Hi! I'm Jamie Seungmin Lee, here is something about me.
 
 - I’m currently working as a junior web/server developer for elder health care company 
 - I'm learning deeper on Java and Python! 
 - I’m looking to collaborate with other amazing developers.
-- The Goal of This 2020: Start contributing fantastic open source projects & one day one commit.
+- The Goal of This 2021: Ready other people's code a lot. (in company, in open source projects)
 - My personal tech blog is over [here!](https://leeleelee3264.github.io/)
 <br />
 
@@ -37,12 +39,9 @@ Additional Info
 <br />
 ---
 
-### 📕 Latest Blog Posts
-- [Git: Making forked repo to standalone repo](https://leeleelee3264.github.io/forked-repo-commit/)
-- [Java: Unchecked & checked Exception and Mybatis Exception](https://leeleelee3264.github.io/mybatis-exception/)
-- [Git: Git cheat sheet for myself](https://leeleelee3264.github.io/git-cheat-sheet/)
-
-
-
+### :bettle: Cheat Sheet for myself :bettle: 
+- [Git](https://leeleelee3264.github.io/general/2020/09/24/git-cheat-sheet.html)
+- [Linux](https://leeleelee3264.github.io/backend/2020/12/12/linux-cheat-sheet.html)
+- [Java](https://leeleelee3264.github.io/backend/2020/09/24/java-stream-cheat-sheet.html)
 
 
