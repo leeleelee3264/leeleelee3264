@@ -40,8 +40,8 @@ Additional Info
 ---
 
 ### :bettle: Cheat Sheet for myself :bettle: 
-- [Git](https://leeleelee3264.github.io/general/2020/09/24/git-cheat-sheet.html)
-- [Linux](https://leeleelee3264.github.io/backend/2020/12/12/linux-cheat-sheet.html)
-- [Java](https://leeleelee3264.github.io/backend/2020/09/24/java-stream-cheat-sheet.html)
+- [Git cheatsheet](https://leeleelee3264.github.io/general/2020/09/24/git-cheat-sheet.html)
+- [Linux cheatsheet](https://leeleelee3264.github.io/backend/2020/12/12/linux-cheat-sheet.html)
+- [Java stream/map/list cheatsheet](https://leeleelee3264.github.io/backend/2020/09/24/java-stream-cheat-sheet.html)
 
 
