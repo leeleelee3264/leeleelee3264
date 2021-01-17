@@ -12,13 +12,16 @@
 - My personal tech blog is over [here!](https://leeleelee3264.github.io/)
 <br />
 
-### :wrench: I work with...
+## :wrench: I work with...
 <p align="left">
    <a href="#">
     <img src="https://github.com/leeleelee3264/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
    <a href="#">
     <img src="https://github.com/leeleelee3264/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> 
+   <a href="#">
+    <img src="https://github.com/leeleelee3264/ColoredBadges/blob/master/svg/dev/languages/js.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
 </p>
 
