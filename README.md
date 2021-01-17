@@ -15,7 +15,10 @@
 ### :wrench: I work with...
 <p align="left">
    <a href="#">
-    <img src="https://github.com/leeleelee3264/bornmay/blob/master/svg/blogs/devto.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+    <img src="https://github.com/leeleelee3264/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
+   <a href="#">
+    <img src="https://github.com/leeleelee3264/ColoredBadges/blob/master/svg/dev/languages/python.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
   </a>  
 </p>
 
