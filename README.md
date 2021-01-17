@@ -1,5 +1,4 @@
-
-![Alt Text](https://github.com/leeleelee3264/leeleelee3264/blob/master/hello_speed.gif)
+<img src="https://github.com/leeleelee3264/leeleelee3264/blob/master/hello_speed.gif" width="950" height="350" />
 
 ## Main thought of 2021 
 :boom: How to write an understandable and manageable code. :boom:
