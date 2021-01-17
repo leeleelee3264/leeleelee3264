@@ -1,4 +1,5 @@
 
+![Alt Text](https://github.com/leeleelee3264/leeleelee3264/blob/master/hello_speed.gif)
 
 ## Main thought of 2021 
 :boom: How to write an understandable and manageable code. :boom:
