@@ -26,7 +26,18 @@
 </p>
 
 <p align="left">
- 
+ <a href="#">
+    <img src="https://github.com/leeleelee3264/ColoredBadges/blob/master/svg/dev/frameworks/nodejs_larger.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
+   <a href="#">
+    <img src="https://github.com/leeleelee3264/ColoredBadges/blob/master/svg/dev/services/aws.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
+   <a href="#">
+    <img src="https://github.com/leeleelee3264/ColoredBadges/blob/master/svg/dev/tools/docker.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
+   <a href="#">
+    <img src="https://github.com/leeleelee3264/ColoredBadges/blob/master/svg/dev/tools/jetbrains_intellij.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>
 </p>
 
 
