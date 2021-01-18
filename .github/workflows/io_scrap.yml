@@ -39,6 +39,7 @@ jobs:
     - name: Run Crawlar with python 
       run: |
         python "githubio_scrap_try2.py"
+        python "update_readme.py"
     - name: Commits
       run: |
         git config --local user.email "absinthe4902@naver.com"
