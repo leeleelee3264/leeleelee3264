@@ -51,7 +51,7 @@ Additional Info
 <br />
 ---
 
-<br />
+
 ### :beetle: Cheat Sheet for myself :beetle:
 - [[Linux] Host and url name convention](https://leeleelee3264.github.io/backend/2021/01/13/linux-host-name-convention.html)
 - [[Spring] Loading resource inside of jar and outside of jar](https://leeleelee3264.github.io/backend/2021/01/08/spring-resource-load.html)
