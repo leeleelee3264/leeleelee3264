@@ -5,7 +5,7 @@ name: io_scrap
 
 on:
   schedule:
-    - cron: '*/20 * * * *'
+    - cron: '24 0 * * *'
   push:
     branches: [ master ]
   pull_request:
@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     strategy:
       matrix:
-        python-version: [3.7, 3.8, 3.9]
+        python-version: [3.7]
 
     steps:
     - uses: actions/checkout@v2
