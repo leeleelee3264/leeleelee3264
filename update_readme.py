@@ -11,12 +11,12 @@ with open('README.md', 'r+', encoding='utf-8') as f:
 
 new_readme = []
 
-comp = '### :bettle: Cheat Sheet for myself :bettle: '
+comp = 'bettle'
 
 for line in lines:
     temp_line = line.strip('\n')
     new_readme.append(temp_line)
-    if temp_line == comp:
+    if comp in temp_line:
         break
 
 # scrap
