@@ -11,7 +11,7 @@ with open('README.md', 'r+', encoding='utf-8') as f:
 
 new_readme = []
 
-comp = 'bettle'
+comp = 'Recent_blog_post'
 
 for line in lines:
     temp_line = line.strip('\n')
