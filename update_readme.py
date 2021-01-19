@@ -1,4 +1,6 @@
 # read readme file
+import requests
+from bs4 import BeautifulSoup
 import os
 import json
 
@@ -17,12 +19,21 @@ for line in lines:
     if temp_line == comp:
         break
 
-with open(os.path.join(BASE_DIR, 'post.json'), 'r+', encoding='utf-8') as post:
-# json file 이라서 data 로 열러준다
-    datas = json.load(post)
+# scrap
+static_url = 'https://leeleelee3264.github.io'
 
-for key in datas.keys():
-    new_post = """- [{0}]({1})""".format(datas[key], key)
+req = requests.get(static_url)
+req.encoding=None
+html = req.content
+soup = BeautifulSoup(html, 'html.parser')
+datas = soup.select('.post-link')
+
+data = {}
+
+for title in datas:
+    link = static_url + title.attrs['href']
+    text = title.text
+    new_post = """- [{0}]({1})""".format(text, link)
     new_readme.append(new_post)
 
 
