@@ -49,6 +49,7 @@ Additional Info
 ---
 
 ### :beetle: Recent_blog_post :beetle: 
+- [[Java] Modern Java In Action](https://leeleelee3264.github.io/backend/2021/02/14/java-in-action-part1.html)
 - [[Docker] Build Shiny server with Docker](https://leeleelee3264.github.io/backend/2021/01/30/build-server-with-docker.html)
 - [[Docker] Docker cheat sheet (img)](https://leeleelee3264.github.io/backend/2021/01/30/docker-cheet-sheet.html)
 - [[Spring] Spring boot unit test with Junit5](https://leeleelee3264.github.io/backend/2021/01/26/spring-unit-test.html)
@@ -58,4 +59,3 @@ Additional Info
 - [[Linux] Linux command cheat sheet](https://leeleelee3264.github.io/backend/2020/12/12/linux-cheat-sheet.html)
 - [[SQL] View and a little bit of UNION/JOIN](https://leeleelee3264.github.io/backend/2020/10/27/sql-view-union-join.html)
 - [[Front] Divide layout in thymeleaf.](https://leeleelee3264.github.io/frontend/2020/10/25/front-thymeleaf-layout.html)
-- [[Spring] Set redis session expired timeout](https://leeleelee3264.github.io/backend/2020/10/14/spring-redis-session.html)
