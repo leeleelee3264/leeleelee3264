@@ -49,7 +49,7 @@ Additional Info
 ---
 
 ### :beetle: Recent_blog_post :beetle: 
-- [[Backend] Github action으로 트위터 봇 만들기](https://leeleelee3264.github.io/backend/2021/04/16/twitterbot-with-git-action.html)
+- [[Project] Github action으로 트위터 봇 만들기](https://leeleelee3264.github.io/backend/2021/04/16/twitterbot-with-git-action.html)
 - [[Linux] 무중단 서버로 배포하기](https://leeleelee3264.github.io/backend/2021/03/15/blue-green-deploy.html)
 - [[Java] Modern Java In Action](https://leeleelee3264.github.io/backend/2021/02/14/java-in-action-part1.html)
 - [[Docker] Build Shiny server with Docker](https://leeleelee3264.github.io/backend/2021/01/30/build-server-with-docker.html)
