@@ -49,6 +49,7 @@ Additional Info
 ---
 
 ### :beetle: Recent_blog_post :beetle: 
+- [Llinux Server Init Setting](https://leeleelee3264.github.io/2021/04/21/llinux-server-init-setting.html)
 - [[Project] Github action으로 트위터 봇 만들기](https://leeleelee3264.github.io/backend/2021/04/16/twitterbot-with-git-action.html)
 - [[Linux] 무중단 서버로 배포하기](https://leeleelee3264.github.io/backend/2021/03/15/blue-green-deploy.html)
 - [[Java] Modern Java In Action](https://leeleelee3264.github.io/backend/2021/02/14/java-in-action-part1.html)
@@ -58,4 +59,3 @@ Additional Info
 - [[Linux] Host and url name convention](https://leeleelee3264.github.io/backend/2021/01/13/linux-host-name-convention.html)
 - [[Spring] Loading resource inside of jar and outside of jar](https://leeleelee3264.github.io/backend/2021/01/08/spring-resource-load.html)
 - [[Linux] Writing shell script](https://leeleelee3264.github.io/backend/2021/01/05/linux-writing-shell-script.html)
-- [[Linux] Linux command cheat sheet](https://leeleelee3264.github.io/backend/2020/12/12/linux-cheat-sheet.html)
