@@ -5,7 +5,7 @@ name: io_scrap
 
 on:
   schedule:
-    - cron: '*/20 * * * *'
+    - cron: '30 11 * * Sun'
   push:
     branches: [ master ]
   pull_request:
