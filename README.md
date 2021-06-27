@@ -56,6 +56,7 @@
 ---
 
 ### :beetle: Recent_blog_post :beetle: 
+- [[SQL] Clustered Index 와 Non-Clustered Index](https://leeleelee3264.github.io/backend/2021/06/21/mysql-index.html)
 - [[Linux] 리눅스 서버 설치 & 초기 세팅하기](https://leeleelee3264.github.io/backend/2021/04/16/linux-server-init-setting.html)
 - [[Project] Github action으로 트위터 봇 만들기](https://leeleelee3264.github.io/backend/2021/04/16/twitterbot-with-git-action.html)
 - [[Linux] 무중단 서버로 배포하기](https://leeleelee3264.github.io/backend/2021/03/15/blue-green-deploy.html)
@@ -65,4 +66,3 @@
 - [[Spring] Spring boot unit test with Junit5](https://leeleelee3264.github.io/backend/2021/01/26/spring-unit-test.html)
 - [[Linux] Host and url name convention](https://leeleelee3264.github.io/backend/2021/01/13/linux-host-name-convention.html)
 - [[Spring] Loading resource inside of jar and outside of jar](https://leeleelee3264.github.io/backend/2021/01/08/spring-resource-load.html)
-- [[Linux] Writing shell script](https://leeleelee3264.github.io/backend/2021/01/05/linux-writing-shell-script.html)
