@@ -56,7 +56,8 @@
 ---
 
 ### :beetle: Recent_blog_post :beetle: 
-- [[SQL] Structured Query Language and Key, Collation](https://leeleelee3264.github.io/backend/2021/06/30/mysql-sql-and-key-and-collation.html)
+- [[SQL] String function & Referential Integrity](https://leeleelee3264.github.io/backend/2021/07/08/mysql-stringfunction-and-referential-integrity.html)
+- [[SQL] (1)Structured Query Language & Key (2) Collation](https://leeleelee3264.github.io/backend/2021/06/30/mysql-sql-and-key-and-collation.html)
 - [[SQL] Clustered Index 와 Non-Clustered Index](https://leeleelee3264.github.io/backend/2021/06/21/mysql-index.html)
 - [[Linux] 리눅스 서버 설치 & 초기 세팅하기](https://leeleelee3264.github.io/backend/2021/04/16/linux-server-init-setting.html)
 - [[Project] Github action으로 트위터 봇 만들기](https://leeleelee3264.github.io/backend/2021/04/16/twitterbot-with-git-action.html)
@@ -65,4 +66,3 @@
 - [[Docker] Build Shiny server with Docker](https://leeleelee3264.github.io/backend/2021/01/30/build-server-with-docker.html)
 - [[Docker] Docker cheat sheet (img)](https://leeleelee3264.github.io/backend/2021/01/30/docker-cheet-sheet.html)
 - [[Spring] Spring boot unit test with Junit5](https://leeleelee3264.github.io/backend/2021/01/26/spring-unit-test.html)
-- [[Linux] Host and url name convention](https://leeleelee3264.github.io/backend/2021/01/13/linux-host-name-convention.html)
