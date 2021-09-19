@@ -63,6 +63,6 @@
 - [[SQL] (1)Structured Query Language & Key (2) Collation](https://leeleelee3264.github.io/backend/2021/06/30/mysql-sql-and-key-and-collation.html)
 - [[SQL] Clustered Index 와 Non-Clustered Index](https://leeleelee3264.github.io/backend/2021/06/21/mysql-index.html)
 - [[Linux] 리눅스 서버 설치 & 초기 세팅하기](https://leeleelee3264.github.io/backend/2021/04/16/linux-server-init-setting.html)
-- [[Project] Github action으로 트위터 봇 만들기](https://leeleelee3264.github.io/backend/2021/04/16/twitterbot-with-git-action.html)
+- [[Project] Github action으로 트위터 봇 만들기](https://leeleelee3264.github.io/project/2021/04/16/twitterbot-with-git-action.html)
 - [[Linux] 무중단 서버로 배포하기](https://leeleelee3264.github.io/backend/2021/03/15/blue-green-deploy.html)
-- [[Java] Modern Java In Action](https://leeleelee3264.github.io/backend/2021/02/14/java-in-action-part1.html)
+- [[Java] Modern Java In Action](https://leeleelee3264.github.io/book/2021/02/14/java-in-action-part1.html)
