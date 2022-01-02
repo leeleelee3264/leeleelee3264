@@ -56,6 +56,8 @@
 ---
 
 ### :beetle: Recent_blog_post :beetle: 
+- [[Interview] 2021 Backend Engineer Interview - Python, General](https://leeleelee3264.github.io/general/2021/12/02/interview-python.html)
+- [[Interview] 2021 Backend Engineer Interview - Java](https://leeleelee3264.github.io/general/2021/12/02/interview-java.html)
 - [[Linux] Shell Script 로 Mysql db 전체백업하기](https://leeleelee3264.github.io/backend/2021/09/09/linux-shell-db-backup.html)
 - [[SQL] SQL 백업 종류](https://leeleelee3264.github.io/backend/2021/07/21/mysql-backup.html)
 - [[SQL] History of Join & Join Set](https://leeleelee3264.github.io/backend/2021/07/14/mysql-history-of-join-and-join-set.html)
@@ -64,5 +66,3 @@
 - [[SQL] Clustered Index 와 Non-Clustered Index](https://leeleelee3264.github.io/backend/2021/06/21/mysql-index.html)
 - [[Linux] 리눅스 서버 설치 & 초기 세팅하기](https://leeleelee3264.github.io/backend/2021/04/16/linux-server-init-setting.html)
 - [[Project] Github action으로 트위터 봇 만들기](https://leeleelee3264.github.io/project/2021/04/16/twitterbot-with-git-action.html)
-- [[Linux] 무중단 서버로 배포하기](https://leeleelee3264.github.io/backend/2021/03/15/blue-green-deploy.html)
-- [[Java] Modern Java In Action](https://leeleelee3264.github.io/book/2021/02/14/java-in-action-part1.html)
