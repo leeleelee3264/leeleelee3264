@@ -6,15 +6,19 @@
 
 <br> 
 
-## Main thought of 2021 
-:boom: How to write an understandable and manageable code. :boom:
+## Main thought of 2022
+:boom: First, try hard to understand business. :boom: <br> 
+:boom: Second, how to well implement code with complicated business logic. :boom:
 
-## Hi! I'm Jamie Seungmin Lee, here is something about me.
+<br>
 
-- I’m currently working as a junior web/server developer for elder health care company 
-- I'm learning deeper on Java and Python! 
-- I’m looking to collaborate with other amazing developers.
-- The Goal of This 2021: Ready other people's code a lot. (in company, in open source projects)
+
+## Hi! I'm LeeLee, here is something about me.
+
+- I’m currently working as a junior bakend developer for fintech compony.
+- I usually write Python code. (Used Jave untill 2021)   
+- I like to make small things as toy projects. 
+- The Goal of This 2022: **Attribute to Python open sources!** 
 - My personal tech blog is over [here!](https://leeleelee3264.github.io/)
 <br>
 
