@@ -7,8 +7,8 @@
 <br> 
 
 ## Main thought of 2022
-:boom: First, try hard to understand business. :boom: <br> 
-:boom: Second, how to well implement code with complicated business logic. :boom:
+:boom: **First**, try hard to understand business. :boom: <br> 
+:boom: **Second**, how to well implement code with complicated business logic. :boom:
 
 <br>
 
@@ -22,7 +22,8 @@
 - My personal tech blog is over [here!](https://leeleelee3264.github.io/)
 <br>
 
-## :wrench: I work with...
+## Overview
+### :wrench: I work with...
 <p align="center">
    <a href="#">
     <img src="https://github.com/leeleelee3264/ColoredBadges/blob/master/svg/dev/languages/java.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
@@ -57,9 +58,28 @@
 
 </div>
 
----
+### 📘 I have interest in... 
+<p align="center">
+   <a href="#">
+    <img src="https://github.com/leeleelee3264/ColoredBadges/blob/master/svg/dev/languages/dart.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
+   <a href="#">
+    <img src="https://github.com/leeleelee3264/ColoredBadges/blob/master/svg/dev/frameworks/flutter.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> 
+   <a href="#">
+    <img src="https://github.com/leeleelee3264/ColoredBadges/blob/master/svg/dev/tools/bash.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
+   <a href="#">
+    <img src="https://github.com/leeleelee3264/ColoredBadges/blob/master/svg/dev/services/kubernetes.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a> 
+            
 
-### :beetle: Recent_blog_post :beetle: 
+</p>
+
+<br>
+
+
+## :beetle: Recent_blog_post :beetle: 
 - [[Git] 여러 개의 깃허브 계정 쓰기](https://leeleelee3264.github.io/general/2022/01/12/git-multi-account.html)
 - [[Interview] 2021 Backend Engineer Interview - Python, General](https://leeleelee3264.github.io/general/2021/12/02/interview-python.html)
 - [[Interview] 2021 Backend Engineer Interview - Java](https://leeleelee3264.github.io/general/2021/12/02/interview-java.html)
