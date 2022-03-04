@@ -7,7 +7,7 @@
 <br> 
 
 ## Main thought of 2022
-:boom: **First**, try hard to understand business. :boom: <br> 
+:boom: **First**, try hard to understand business domain. :boom: <br> 
 :boom: **Second**, how to well implement code with complicated business logic. :boom:
 
 <br>
