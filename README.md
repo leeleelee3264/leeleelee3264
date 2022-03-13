@@ -80,6 +80,7 @@
 
 
 ## :beetle: Recent_blog_post :beetle: 
+- [[Python] Introducing Python - Part 1](https://leeleelee3264.github.io/book/2022/03/08/introducing-python-part_one.html)
 - [[Git] 여러 개의 깃허브 계정 쓰기](https://leeleelee3264.github.io/general/2022/01/12/git-multi-account.html)
 - [[Interview] 2021 Backend Engineer Interview - Python, General](https://leeleelee3264.github.io/general/2021/12/02/interview-python.html)
 - [[Interview] 2021 Backend Engineer Interview - Java](https://leeleelee3264.github.io/general/2021/12/02/interview-java.html)
@@ -89,4 +90,3 @@
 - [[SQL] String function & Referential Integrity](https://leeleelee3264.github.io/backend/2021/07/08/mysql-stringfunction-and-referential-integrity.html)
 - [[SQL] (1)Structured Query Language & Key (2) Collation](https://leeleelee3264.github.io/backend/2021/06/30/mysql-sql-and-key-and-collation.html)
 - [[SQL] Clustered Index 와 Non-Clustered Index](https://leeleelee3264.github.io/backend/2021/06/21/mysql-index.html)
-- [[Linux] 리눅스 서버 설치 & 초기 세팅하기](https://leeleelee3264.github.io/backend/2021/04/16/linux-server-init-setting.html)
