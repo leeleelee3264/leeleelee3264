@@ -4,25 +4,35 @@
    
 </div>
 
-<br> 
 
-## Main thought of 2022
-:boom: **First**, try hard to understand business domain. :boom: <br> 
-:boom: **Second**, how to well implement code with complicated business logic. :boom:
+## LeeLee 
+Hi, I'm LeeLee. <br>
+I'm a Backend developer who dreams Devops. Here is something about me. <br> 
 
 <br>
 
+### 🥇 Main goals of 2022
+- Try to understand business domain.  <br> 
+- Implement code with complicated business logic. <br> 
+- Attribute to open source projects. <br> 
 
-## Hi! I'm LeeLee, here is something about me.
-
-- I’m currently working as a junior bakend developer for fintech compony.
-- I usually write Python code. (Used Jave untill 2021)   
-- I like to make small things as toy projects. 
-- The Goal of This 2022: **Attribute to Python open sources!** 
-- My personal tech blog is over [here!](https://leeleelee3264.github.io/)
 <br>
 
-## Overview
+### Career
+- Kasa Singapore as Backend Developer (2021.12 ~ )  
+- DNX Korea as Backend Developer (2019.08 ~ 2021.11)
+
+
+### Skills 
+
+
+### Challenge
+
+### Contact
+
+
+### Post
+
 ### :wrench: I work with...
 <p align="center">
    <a href="#">
