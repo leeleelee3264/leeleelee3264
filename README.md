@@ -11,7 +11,7 @@ I'm a Backend developer who dreams Devops. Here is something about me. <br>
 
 <br>
 
-### 💻 Career
+### 🏛️ Career
 - Kasa Singapore as **Backend developer** (2021.12 ~ )  
   - Implement API with Django. 
   - Apply Singapore govement's mydata service, Singpass. 
@@ -26,7 +26,7 @@ I'm a Backend developer who dreams Devops. Here is something about me. <br>
 <br>
 
 
-### Skills 
+### 💻 Skills 
 <span>
       <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
       <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
@@ -63,7 +63,7 @@ I'm a Backend developer who dreams Devops. Here is something about me. <br>
 <br>
 
 
-### Interest Skills
+### 👩‍💻 Interest Skills
 <p>
       <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white">
       <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white">
@@ -91,19 +91,6 @@ I'm a Backend developer who dreams Devops. Here is something about me. <br>
 
 <br>
 
-### Status 
+### 🧐 Status 
 
 ![Jamie's github stats](https://github-readme-stats.vercel.app/api?username=leeleelee3264&show_icons=true&hide_border=true&theme=radical) 
-
-
-
-- [[Git] 여러 개의 깃허브 계정 쓰기](https://leeleelee3264.github.io/book/2022/03/20/effective-python.html)
-- [[Git] 여러 개의 깃허브 계정 쓰기](https://leeleelee3264.github.io/book/2022/03/20/introducing-python-part2.html)
-- [[Python] Introducing Python - Part 1](https://leeleelee3264.github.io/book/2022/03/08/introducing-python-part_one.html)
-- [[Git] 여러 개의 깃허브 계정 쓰기](https://leeleelee3264.github.io/general/2022/01/12/git-multi-account.html)
-- [[Interview] 2021 Backend Engineer Interview - Python, General](https://leeleelee3264.github.io/general/2021/12/02/interview-python.html)
-- [[Interview] 2021 Backend Engineer Interview - Java](https://leeleelee3264.github.io/general/2021/12/02/interview-java.html)
-- [[Linux] Shell Script 로 Mysql db 전체백업하기](https://leeleelee3264.github.io/backend/2021/09/09/linux-shell-db-backup.html)
-- [[SQL] SQL 백업 종류](https://leeleelee3264.github.io/backend/2021/07/21/mysql-backup.html)
-- [[SQL] History of Join & Join Set](https://leeleelee3264.github.io/backend/2021/07/14/mysql-history-of-join-and-join-set.html)
-- [[SQL] String function & Referential Integrity](https://leeleelee3264.github.io/backend/2021/07/08/mysql-stringfunction-and-referential-integrity.html)
