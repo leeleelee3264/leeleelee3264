@@ -1,43 +1,87 @@
 # read readme file
+from typing import Dict, List
+
 import requests
 from bs4 import BeautifulSoup
 import os
 import json
 
+BLOG = 'https://leeleelee3264.github.io'
+README = 'README.md'
+LIMIT = 5
+ANCHOR = 'Post'
+
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
-with open('README.md', 'r+', encoding='utf-8') as f:
-    lines = f.readlines()
 
-new_readme = []
-
-comp = 'Recent_blog_post'
-
-for line in lines:
-    temp_line = line.strip('\n')
-    new_readme.append(temp_line)
-    if comp in temp_line:
-        break
-
-# scrap
-static_url = 'https://leeleelee3264.github.io'
-
-req = requests.get(static_url)
-req.encoding=None
-html = req.content
-soup = BeautifulSoup(html, 'html.parser')
-datas = soup.select('.post-link')
-
-data = {}
-
-for title in datas:
-    link = static_url + title.attrs['href']
-    text = title.text
-    new_post = """- [{0}]({1})""".format(text, link)
-    new_readme.append(new_post)
+def write_new_readme() -> None:
+    posts = get_recent_post()
+    write_to_readme(posts)
 
 
-print(new_readme)
+def get_recent_post() -> List:
 
-with open(os.path.join(BASE_DIR, 'README.md'), 'w+', encoding='utf-8') as w_readme:
-        w_readme.write("\n".join(new_readme))
+    posts = []
+    raw_posts = _get_recent_post_from_website()
+
+    for raw_post in raw_posts:
+        post = _format_recent_post(raw_post)
+        posts.append(post)
+
+    return posts[:LIMIT]
+
+
+def write_to_readme(posts: List) -> None:
+    template = _get_readme_template()
+    template.append(posts)
+
+    print(template)
+
+    # with open(os.path.join(BASE_DIR, README), 'w+', encoding='utf-8') as file:
+    #     file.write("\n".join(template))
+
+
+def _get_recent_post_from_website() -> List:
+
+    req = requests.get(BLOG)
+    req.encoding = 'utf-8'
+
+    html = req.content
+    parser = BeautifulSoup(html, 'html.parser')
+
+    posts = parser.select('.post-link')
+    return posts
+
+
+def _format_recent_post(element) -> str:
+    raw_title = element.text
+    raw_link = BLOG + element.attrs['href']
+
+    post = f'- [{raw_title}]({raw_link})'
+    return post
+
+
+def _get_readme_template() -> List:
+
+    template = []
+    raw_lines = _read_from_readme()
+
+    for raw_line in raw_lines:
+        line = raw_line.strip('\n')
+        template.append(line)
+
+        if ANCHOR in line:
+            break
+
+    return template
+
+
+def _read_from_readme() -> List:
+    with open(README, 'r+', encoding='utf-8') as file:
+        lines = file.readlines()
+
+        return lines
+
+
+if __name__ == "__main__":
+    write_new_readme()
