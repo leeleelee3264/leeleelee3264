@@ -94,3 +94,13 @@ I'm a Backend developer who dreams Devops. Here is something about me. <br>
 - [[Git] 여러 개의 깃허브 계정 쓰기](https://leeleelee3264.github.io/general/2022/01/12/git-multi-account.html)
 - [[Interview] 2021 Backend Engineer Interview - Python, General](https://leeleelee3264.github.io/general/2021/12/02/interview-python.html)
 
+- [[Security] Digital Certificate](https://leeleelee3264.github.io/infra/2022/06/15/digital-certificate-part-one.html)
+- [[Python] Effective python Chapter 1](https://leeleelee3264.github.io/book/2022/06/15/effective-python.html)
+- [[Python] Introducing Python - Part 1](https://leeleelee3264.github.io/book/2022/03/08/introducing-python-part_one.html)
+- [[Git] 여러 개의 깃허브 계정 쓰기](https://leeleelee3264.github.io/general/2022/01/12/git-multi-account.html)
+- [[Career] 2021 Backend Engineer Interview - Python, General](https://leeleelee3264.github.io/general/2021/12/02/interview-python.html)
+- [[Career] 2021 Backend Engineer Interview - Java](https://leeleelee3264.github.io/general/2021/12/02/interview-java.html)
+- [[Linux & MySQL] Shell Script 로 Mysql db 전체백업하기](https://leeleelee3264.github.io/infra/2021/09/09/linux-shell-db-backup.html)
+- [[MySQL] SQL 백업 종류](https://leeleelee3264.github.io/infra/2021/07/21/mysql-backup.html)
+- [[MySQL] History of Join & Join Set](https://leeleelee3264.github.io/infra/2021/07/14/mysql-history-of-join-and-join-set.html)
+- [[MySQL] String function & Referential Integrity](https://leeleelee3264.github.io/infra/2021/07/08/mysql-stringfunction-and-referential-integrity.html)
