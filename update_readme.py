@@ -33,10 +33,10 @@ def get_recent_post() -> List:
 
 def write_to_readme(posts: List) -> None:
     template = _get_readme_template()
-    template.append(posts)
+    new_readme = template + posts
 
     with open(os.path.join(BASE_DIR, README), 'w+', encoding='utf-8') as file:
-        file.write("\n".join(template))
+        file.write("\n".join(new_readme))
 
 
 def _get_recent_post_from_website() -> List:
