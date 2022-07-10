@@ -16,7 +16,7 @@ I'm a Backend developer who dreams Devops. Here is something about me. <br>
   - Implement API with Django. 
   - Apply Singapore govement's mydata service, Singpass. 
   
-- DNX Korea as **Backend Developer** (2019.08 ~ 2021.11)
+- DNX Korea as **Backend developer** (2019.08 ~ 2021.11)
   - Impelment API with Spring. 
   - Impelment Monitoring website with React.js.
   - Desgin data schema with Mysql. 
