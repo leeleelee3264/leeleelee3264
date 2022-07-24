@@ -88,8 +88,8 @@ I'm a Backend developer who dreams Devops. Here is something about me. <br>
 <br>
 
 ### 📝 Post
+- [[Project] Python Version of Myinfo oauth2 Connector](https://leeleelee3264.github.io/project/2022/07/23/project-myinfo-connector-python.html)
 - [[Python] Python Decorator로 간단한 profiler 만들기](https://leeleelee3264.github.io/backend/2022/06/29/python-profiler-decorator.html)
 - [[Security] Digital Certificate](https://leeleelee3264.github.io/infra/2022/06/15/digital-certificate-part-one.html)
 - [[Python] Effective python better way 1 to 5](https://leeleelee3264.github.io/book/2022/06/15/effective-python_betterway_1_to_5.html)
 - [[Python] Introducing Python - Part 1](https://leeleelee3264.github.io/book/2022/03/08/introducing-python-part_one.html)
-- [[Git] 여러 개의 깃허브 계정 쓰기](https://leeleelee3264.github.io/general/2022/01/12/git-multi-account.html)
