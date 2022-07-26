@@ -1,0 +1,32 @@
+# This workflow will install Python dependencies, run tests and lint with a variety of Python versions ss8
+# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
+
+name: healthcheck
+
+on:
+  schedule:
+    - cron: '* * * * *'
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check the deployed service URL
+        uses: jtalk/url-health-check-action@v2
+        with:
+          # Check the following URLs one by one sequentially
+          url: https://leelee.me
+          # Follow redirects, or just report success on 3xx status codes
+          follow-redirect: false # Optional, defaults to "false"
+          # Fail this action after this many failed attempts
+          max-attempts: 3 # Optional, defaults to 1
+          # Delay between retries
+          retry-delay: 5s # Optional, only applicable to max-attempts > 1
+          # Retry all errors, including 404. This option might trigger curl upgrade.
+          retry-all: false # Optional, defaults to "false"
