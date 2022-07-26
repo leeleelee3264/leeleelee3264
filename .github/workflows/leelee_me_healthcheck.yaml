@@ -5,7 +5,7 @@ name: healthcheck
 
 on:
   schedule:
-    - cron: '5 * * * *'
+    - cron: '10/5 * * * *' # Every 5 minutes, starting at 10 minutes past the hour
   push:
     branches: [ master ]
   pull_request:
