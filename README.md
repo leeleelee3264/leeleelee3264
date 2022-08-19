@@ -18,13 +18,15 @@ I'm a Backend developer who dreams Devops. Here is something about me. <br>
 
 ### 🏛️ Career
 - Kasa Singapore as **Backend developer** (2021.12 ~ )  
-  - Implement API with Django. 
-  - Apply Singapore govement's mydata service, Singpass. 
+  - Launched Kasa Singapore service (2022-08-25). 
+  - Implemented API with Django.  
+  - Designed entire API in deal, offering function. 
+  - Applied Singapore govement's mydata service, Singpass. 
   
 - DNX Korea as **Backend developer** (2019.08 ~ 2021.11)
-  - Impelment API with Spring. 
-  - Impelment Monitoring website with React.js.
-  - Desgin data schema with Mysql. 
+  - Impelmented API with Spring. 
+  - Impelmented Monitoring website with React.js.
+  - Desgined data schema with Mysql. 
   - Set infrastructure with AWS and Docker. 
   
   
