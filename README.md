@@ -17,17 +17,17 @@ I'm a Backend developer who dreams Devops. Here is something about me. <br>
 <br>
 
 ### 🏛️ Career
-- Kasa Singapore as **Backend developer** (2021.12 ~ )  
-  - Launched Kasa Singapore service (2022-08-25). 
-  - Implemented API with Django.  
-  - Designed entire API in deal, offering function. 
-  - Applied Singapore govement's mydata service, Singpass. 
-  
+- Kasa Singapore as **Backend developer** (2021.12 ~ )
+    - Launched Kasa Singapore Service (2022-08-25)
+    - Implemented API with Django.
+    - Designed entire API in deal, offering function. 
+    - Applied Singapore government's mydata service, Singpass.
+
 - DNX Korea as **Backend developer** (2019.08 ~ 2021.11)
-  - Impelmented API with Spring. 
-  - Impelmented Monitoring website with React.js.
-  - Desgined data schema with Mysql. 
-  - Set infrastructure with AWS and Docker. 
+    - Implemented API with Spring.
+    - Implemented Monitoring website.
+    - Designed data schema with Mysql.
+    - Set infrastructure with AWS and Docker.
   
   
 <br>
@@ -47,7 +47,6 @@ I'm a Backend developer who dreams Devops. Here is something about me. <br>
       <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green">
       <img src="https://img.shields.io/badge/django%20rest-ff1709?style=for-the-badge&logo=django&logoColor=white">
       <img src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot">
-      <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
       
 </span>
 
