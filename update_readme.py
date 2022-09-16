@@ -6,7 +6,7 @@ from bs4 import BeautifulSoup
 import os
 import json
 
-BLOG = 'https://leeleelee3264.github.io'
+BLOG = 'https://leeleelee3264.github.io/archives/'
 README = 'README.md'
 LIMIT = 5
 ANCHOR = 'Post'
@@ -16,7 +16,10 @@ BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 def write_new_readme() -> None:
     posts = get_recent_post()
-    write_to_readme(posts)
+
+    for post in posts:
+        print(post)
+    # write_to_readme(posts)
 
 
 def get_recent_post() -> List:
@@ -47,13 +50,13 @@ def _get_recent_post_from_website() -> List:
     html = req.content
     parser = BeautifulSoup(html, 'html.parser')
 
-    posts = parser.select('.post-link')
+    posts = parser.select('body > main > div.container-lg.clearfix > div > div.post > h3')
     return posts
 
 
 def _format_recent_post(element) -> str:
-    raw_title = element.text
-    raw_link = BLOG + element.attrs['href']
+    raw_title = element.text.strip()
+    raw_link = element.attrs['href']
 
     post = f'- [{raw_title}]({raw_link})'
     return post
