@@ -56,7 +56,7 @@ def _get_recent_post_from_website() -> List:
 
 def _format_recent_post(element) -> str:
     raw_title = element.text.strip()
-    raw_link = element.attrs['href']
+    raw_link = element.contents[1].attrs['href']
 
     post = f'- [{raw_title}]({raw_link})'
     return post
