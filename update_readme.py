@@ -19,7 +19,7 @@ def write_new_readme() -> None:
 
     for post in posts:
         print(post)
-    # write_to_readme(posts)
+    write_to_readme(posts)
 
 
 def get_recent_post() -> List:
