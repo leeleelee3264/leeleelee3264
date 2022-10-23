@@ -94,8 +94,8 @@ I'm a Backend developer who dreams Devops. Here is something about me. <br>
 <br>
 
 ### 📝 Post
-- [디지털 인증서 심화학습 - CA 부터 Chain of Trust 까지](https://leeleelee3264.github.io/post/2022-08-27-digital-certificate-part-final/)
-- [Python으로 Myinfo oauth2 client connector 구현하기](https://leeleelee3264.github.io/post/2022-07-23-project-myinfo-connector-python/)
-- [Python decorator로 간단한 profiler 구현하기](https://leeleelee3264.github.io/post/2022-06-30-python-profiler-decorator/)
-- [디지털 인증서 쌩기초 파헤치기](https://leeleelee3264.github.io/post/2022-06-15-digital-certificate-part-one/)
-- [[Effective Python] Betterway 1,2,3,4,5 요약](https://leeleelee3264.github.io/post/2022-05-06-effective-python-betteryway-1-to5/)
+- [[Effective Python] Betterway 6,7,8,9,10 Summary](https://leeleelee3264.github.io/post/2022-10-19-effective-python-betterway-6-10/)
+- [Dive into Digital Certificate - from CA to Chain of Trust](https://leeleelee3264.github.io/post/2022-08-27-digital-certificate-part-final/)
+- [Implement Myinfo Oauth2 Client Connector with Python](https://leeleelee3264.github.io/post/2022-07-23-project-myinfo-connector-python/)
+- [Implement Simple Profiler with Python Decorator](https://leeleelee3264.github.io/post/2022-06-30-python-profiler-decorator/)
+- [Dive into Digital Certificate - Very Basic](https://leeleelee3264.github.io/post/2022-06-15-digital-certificate-part-one/)
