@@ -94,8 +94,8 @@ I'm a Backend developer who dreams Devops. Here is something about me. <br>
 <br>
 
 ### 📝 Post
-- [[Effective Python] Betterway 6,7,8,9,10 Summary](https://leeleelee3264.github.io/post/2022-10-19-effective-python-betterway-6-10/)
+- [[Effective Python] Betterway 11 to 15 Summary](https://leeleelee3264.github.io/post/2022-10-25-effevtive-python-betterway-11-to-15/)
+- [[Effective Python] Betterway 16 to 20 Summary](https://leeleelee3264.github.io/post/2022-10-29-effevtive-python-betterway-16-to-20/)
+- [Essential in Cloud: Load Balancer](https://leeleelee3264.github.io/post/2022-10-24-load-balancer/)
+- [[Effective Python] Betterway 6 to 10 Summary](https://leeleelee3264.github.io/post/2022-10-19-effective-python-betterway-6-10/)
 - [Dive into Digital Certificate - from CA to Chain of Trust](https://leeleelee3264.github.io/post/2022-08-27-digital-certificate-part-final/)
-- [Implement Myinfo Oauth2 Client Connector with Python](https://leeleelee3264.github.io/post/2022-07-23-project-myinfo-connector-python/)
-- [Implement Simple Profiler with Python Decorator](https://leeleelee3264.github.io/post/2022-06-30-python-profiler-decorator/)
-- [Dive into Digital Certificate - Very Basic](https://leeleelee3264.github.io/post/2022-06-15-digital-certificate-part-one/)
