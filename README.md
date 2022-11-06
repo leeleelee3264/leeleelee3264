@@ -94,8 +94,8 @@ I'm a Backend developer who dreams Devops. Here is something about me. <br>
 <br>
 
 ### 📝 Post
-- [[Effective Python] Betterway 11 to 15 Summary](https://leeleelee3264.github.io/post/2022-10-25-effevtive-python-betterway-11-to-15/)
-- [[Effective Python] Betterway 16 to 20 Summary](https://leeleelee3264.github.io/post/2022-10-29-effevtive-python-betterway-16-to-20/)
-- [Essential in Cloud: Load Balancer](https://leeleelee3264.github.io/post/2022-10-24-load-balancer/)
-- [[Effective Python] Betterway 6 to 10 Summary](https://leeleelee3264.github.io/post/2022-10-19-effective-python-betterway-6-10/)
-- [Dive into Digital Certificate - from CA to Chain of Trust](https://leeleelee3264.github.io/post/2022-08-27-digital-certificate-part-final/)
+- [[Book] Effective Python (2/10) - 리스트와 딕셔너리](https://leeleelee3264.github.io/post/2022-10-25-effevtive-python-betterway-11-to-15/)
+- [클라우드 필수 교양 - 로드밸런서](https://leeleelee3264.github.io/post/2022-10-24-load-balancer/)
+- [디지털 인증서 파헤치기 (2/2) - 심화: from CA to Chain of Trust](https://leeleelee3264.github.io/post/2022-08-27-digital-certificate-part-final/)
+- [[Project] Python으로 Myinfo Oauth 클라이언트 커넥터 만들기](https://leeleelee3264.github.io/post/2022-07-23-project-myinfo-connector-python/)
+- [[Project] Python 데코레이터로 초간단 Profiler 만들기](https://leeleelee3264.github.io/post/2022-06-30-python-profiler-decorator/)
