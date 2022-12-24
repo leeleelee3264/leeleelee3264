@@ -21,7 +21,7 @@ I'm a Backend developer with multiple interests! Here is something about me. <br
     - Launched [[Digital Exchange for Global Assets, Kasa Singapore]](https://www.kasa.sg/).
         - Implemented API with Django.
         - Designed Core Function API. (Subscription, Offering lifecycle, DABS Allocation/Issue/List) 
-        - Analyzed Requirements and Documented for entire Kasa Singapore Product. 
+        - Analyzed Requirements and Documented for entire Kasa Singapore Product to Improve Understanding Domain.
         - Applied Singapore government's Oauth mydata service, [[Singpass]](https://www.singpass.gov.sg/main/).
 
 - DNX Korea as **Backend developer** (2019.08 ~ 2021.11)
