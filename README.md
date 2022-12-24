@@ -5,7 +5,7 @@
 
 ## LeeLee 
 Hi, I'm LeeLee. <br>
-I'm a Backend developer who dreams Devops. Here is something about me. <br> 
+I'm a Backend developer with multiple interests! Here is something about me. <br> 
 
 <br>
 
@@ -18,17 +18,20 @@ I'm a Backend developer who dreams Devops. Here is something about me. <br>
 
 ### 🏛️ Career
 - Kasa Singapore as **Backend developer** (2021.12 ~ )
-    - Launched Kasa Singapore Service (2022-08-25)
-    - Implemented API with Django.
-    - Designed entire API in deal, offering function. 
-    - Applied Singapore government's mydata service, Singpass.
+    - Launched [[Digital Exchange for Global Assets, Kasa Singapore]](https://www.kasa.sg/).
+        - Implemented API with Django.
+        - Designed Core Function API. (Subscription, Offering lifecycle, DABS Allocation/Issue/List) 
+        - Analyzed Requirements and Documented for entire Kasa Singapore Product. 
+        - Applied Singapore government's Oauth mydata service, [[Singpass]](https://www.singpass.gov.sg/main/).
 
 - DNX Korea as **Backend developer** (2019.08 ~ 2021.11)
-    - Implemented API with Spring.
-    - Implemented Monitoring website.
-    - Designed data schema with Mysql.
-    - Set infrastructure with AWS and Docker.
-  
+    - Launched [[Elder Health Care Service, TouchCare]](https://www.youtube.com/watch?v=oMLnWmGjnyo&ab_channel=RangDnx).
+        - Implemented API with Spring.
+        - Implemented Operation website with Fullstack, Spring and Thymeleaf.
+        - Implemented Monitoring website with Fullstack, Spring and Thmeleaf.
+        - Designed data schema with Mysql.
+        - Set infrastructure with AWS and Docker.
+
   
 <br>
 
