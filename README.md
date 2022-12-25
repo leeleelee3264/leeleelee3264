@@ -97,8 +97,8 @@ I'm a Backend developer with multiple interests! Here is something about me. <br
 <br>
 
 ### 📝 Post
+- [블로그 리팩토링: Hugo 도입과 읽고 싶어지는 기술 블로그 만들기](https://leeleelee3264.github.io/post/2022-12-22-tech-blog-readability/)
 - [[Book] Effective Python (2/10) - 리스트와 딕셔너리](https://leeleelee3264.github.io/post/2022-10-25-effevtive-python-betterway-11-to-15/)
-- [클라우드 필수 교양 - 로드밸런서](https://leeleelee3264.github.io/post/2022-10-24-load-balancer/)
+- [클라우드 필수 교양: 로드밸런서](https://leeleelee3264.github.io/post/2022-10-24-load-balancer/)
 - [디지털 인증서 파헤치기 (2/2) - 심화: from CA to Chain of Trust](https://leeleelee3264.github.io/post/2022-08-27-digital-certificate-part-final/)
-- [[Project] Python으로 Myinfo Oauth 클라이언트 커넥터 만들기](https://leeleelee3264.github.io/post/2022-07-23-project-myinfo-connector-python/)
-- [[Project] Python 데코레이터로 초간단 Profiler 만들기](https://leeleelee3264.github.io/post/2022-06-30-python-profiler-decorator/)
+- [Python으로 Myinfo Oauth 클라이언트 커넥터 만들기](https://leeleelee3264.github.io/post/2022-07-23-project-myinfo-connector-python/)
