@@ -92,7 +92,7 @@ I'm a Backend developer with multiple interests! Here is something about me. <br
 
 ### 🧐 Status 
 
-![Jamie's github stats](https://github-readme-stats.vercel.app/api?username=leeleelee3264&show_icons=true&hide_border=true&theme=radical) 
+![Jamie's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=leeleelee3264&show_icons=true&hide_border=true&theme=radical) 
 
 <br>
 
