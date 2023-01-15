@@ -9,10 +9,10 @@ I'm a Backend developer with multiple interests! Here is something about me. <br
 
 <br>
 
-### 🥇 2022 Goal
-- Try to understand business domain.  <br> 
-- Implement code with complicated business logic. <br> 
-- Attribute to open source projects. <br> 
+### 🥇 2023 Goal
+- Commit three times a week.   <br> 
+- Read open source. <br> 
+- Learn skills deeply.  <br> 
 
 <br>
 
