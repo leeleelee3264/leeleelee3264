@@ -97,8 +97,8 @@ I'm a Backend developer with multiple interests! Here is something about me. <br
 <br>
 
 ### 📝 Post
-- [Seminar by LeeLee - Handling Concurrent Request in Django](https://leeleelee3264.github.io/post/2022-12-26-kasa-concurrency-seminar/)
-- [블로그 리팩토링 - Hugo 도입과 읽고 싶어지는 기술 블로그 만들기](https://leeleelee3264.github.io/post/2022-12-22-tech-blog-readability/)
-- [[Book] Effective Python (2/10) - 리스트와 딕셔너리](https://leeleelee3264.github.io/post/2022-10-25-effevtive-python-betterway-11-to-15/)
-- [클라우드 필수 교양 - 로드밸런서](https://leeleelee3264.github.io/post/2022-10-24-load-balancer/)
-- [디지털 인증서 파헤치기 (2/2) - 심화: from CA to Chain of Trust](https://leeleelee3264.github.io/post/2022-08-27-digital-certificate-part-final/)
+- [[Seminar] Handling concurrency in Django](https://leeleelee3264.github.io/post/2022-12-26-kasa-concurrency-seminar/)
+- [[Project] How to make a readable tech blog with Hugo?](https://leeleelee3264.github.io/post/2022-12-22-tech-blog-readability/)
+- [[Book] Effective Python (2/10) - List & Dictionary](https://leeleelee3264.github.io/post/2022-10-25-effevtive-python-betterway-11-to-15/)
+- [[Infra] What is Load balancer](https://leeleelee3264.github.io/post/2022-10-24-load-balancer/)
+- [[Infra] Digital certificate (2/2) - Advanced](https://leeleelee3264.github.io/post/2022-08-27-digital-certificate-part-final/)
