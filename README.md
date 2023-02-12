@@ -97,8 +97,8 @@ I'm a Backend developer with multiple interests! Here is something about me. <br
 <br>
 
 ### 📝 Post
+- [[Class] 예제로 배우는 스프링 입문 강의 노트](https://leeleelee3264.github.io/post/2023-02-06-inflearn-spring-with-example-note/)
 - [[Seminar] Handling concurrency in Django](https://leeleelee3264.github.io/post/2022-12-26-kasa-concurrency-seminar/)
 - [[Project] How to make a readable tech blog with Hugo?](https://leeleelee3264.github.io/post/2022-12-22-tech-blog-readability/)
 - [[Book] Effective Python (2/10) - List & Dictionary](https://leeleelee3264.github.io/post/2022-10-25-effevtive-python-betterway-11-to-15/)
 - [[Infra] What is Load balancer](https://leeleelee3264.github.io/post/2022-10-24-load-balancer/)
-- [[Infra] Digital certificate (2/2) - Advanced](https://leeleelee3264.github.io/post/2022-08-27-digital-certificate-part-final/)
