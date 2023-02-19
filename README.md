@@ -97,8 +97,8 @@ I'm a Backend developer with multiple interests! Here is something about me. <br
 <br>
 
 ### 📝 Post
-- [[Class] 예제로 배우는 스프링 입문 강의 노트](https://leeleelee3264.github.io/post/2023-02-06-inflearn-spring-with-example-note/)
-- [[Seminar] Handling concurrency in Django](https://leeleelee3264.github.io/post/2022-12-26-kasa-concurrency-seminar/)
-- [[Project] How to make a readable tech blog with Hugo?](https://leeleelee3264.github.io/post/2022-12-22-tech-blog-readability/)
-- [[Book] Effective Python (2/10) - List & Dictionary](https://leeleelee3264.github.io/post/2022-10-25-effevtive-python-betterway-11-to-15/)
-- [[Infra] What is Load balancer](https://leeleelee3264.github.io/post/2022-10-24-load-balancer/)
+- [[Class] [예제로 배우는 스프링 입문] 노트 정리](https://leeleelee3264.github.io/post/2023-02-06-inflearn-spring-with-example-note/)
+- [[Seminar] Django에서 동시성을 다루는 방법으로 인생 첫 세미나 진행하기](https://leeleelee3264.github.io/post/2022-12-26-kasa-concurrency-seminar/)
+- [[Project] 읽고 싶어지는 기술 블로그 만들기](https://leeleelee3264.github.io/post/2022-12-22-tech-blog-readability/)
+- [[Book] [Effective Python] 노트 정리 (2/10) - List & Dictionary](https://leeleelee3264.github.io/post/2022-10-25-effevtive-python-betterway-11-to-15/)
+- [[Infra] 클라우드 필수 교양, 로드 밸런서](https://leeleelee3264.github.io/post/2022-10-24-load-balancer/)
