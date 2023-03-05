@@ -10,8 +10,8 @@ I'm a Backend developer with multiple interests! Here is something about me. <br
 <br>
 
 ### 🥇 2023 Goal
-- Commit three times a week.   <br> 
-- Read open source. <br> 
+- Commit `three times` a week.   <br> 
+- Read `open source`. <br> 
 - Learn skills deeply.  <br> 
 
 <br>
@@ -19,18 +19,18 @@ I'm a Backend developer with multiple interests! Here is something about me. <br
 ### 🏛️ Career
 - Kasa Singapore as **Backend developer** (2021.12 ~ )
     - Launched [[Digital Exchange for Global Assets, Kasa Singapore]](https://www.kasa.sg/).
-        - Implemented API with Django.
+        - Implemented API with `Django`.
         - Designed Core Function API. (Subscription, Offering lifecycle, DABS Allocation/Issue/List) 
         - Analyzed Requirements and Documented for entire Kasa Singapore Product to Improve Understanding Domain.
         - Applied Singapore government's Oauth mydata service, [[Singpass]](https://www.singpass.gov.sg/main/).
 
 - DNX Korea as **Backend developer** (2019.08 ~ 2021.11)
     - Launched [[Elder Health Care Service, TouchCare]](https://www.youtube.com/watch?v=oMLnWmGjnyo&ab_channel=RangDnx).
-        - Implemented API with Spring.
+        - Implemented API with `Spring`.
         - Implemented Operation website with Fullstack, Spring and Thymeleaf.
         - Implemented Monitoring website with Fullstack, Spring and Thmeleaf.
-        - Designed data schema with Mysql.
-        - Set infrastructure with AWS and Docker.
+        - Designed data schema with `Mysql`.
+        - Set infrastructure with `AWS` and `Docker`.
 
   
 <br>
