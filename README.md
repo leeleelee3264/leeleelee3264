@@ -97,8 +97,8 @@ I'm a Backend developer with multiple interests! Here is something about me. <br
 <br>
 
 ### 📝 Post
+- [[Infra] Nginx에 서브도메인 연결하기 with Https](https://leeleelee3264.github.io/post/2023-03-25-subdomain-with-nginx/)
+- [[Book] [따라하며 배우는 AWS 네트워크 입문] 노트정리 1회차 (1/2)](https://leeleelee3264.github.io/post/2023-03-21-introduction-to-aws-networking-first-session-part1/)
 - [[General] Kasa에서 백엔드 엔지니어로서의 1년 회고하기](https://leeleelee3264.github.io/post/2023-03-01-review-kasa/)
 - [[Class] [예제로 배우는 스프링 입문] 노트 정리](https://leeleelee3264.github.io/post/2023-02-06-inflearn-spring-with-example-note/)
 - [[Seminar] [Django에서 동시성을 다루는 방법]을 주제로 인생 첫 세미나 진행하기](https://leeleelee3264.github.io/post/2022-12-26-kasa-concurrency-seminar/)
-- [[Project] 읽고 싶어지는 기술 블로그 만들기](https://leeleelee3264.github.io/post/2022-12-22-tech-blog-readability/)
-- [[Book] [Effective Python] 노트 정리 (2/10) - List & Dictionary](https://leeleelee3264.github.io/post/2022-10-25-effevtive-python-betterway-11-to-15/)
