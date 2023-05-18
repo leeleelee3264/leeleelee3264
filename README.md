@@ -17,7 +17,12 @@ I'm a Backend developer with multiple interests! Here is something about me. <br
 <br>
 
 ### 🏛️ Career
-- Kasa Singapore as **Backend developer** (2021.12 ~ )
+- Kasa Singapore as **DevOps Engineer** (2023.01 ~ )
+    - Implemented SSO with Okta. 
+    - Implemented CI with `DroneCI`. 
+    - Managed Github and AWS with `Terraform`.  
+
+- Kasa Singapore as **Backend developer** (2021.12 ~ 2022.12)
     - Launched [[Digital Exchange for Global Assets, Kasa Singapore]](https://www.kasa.sg/).
         - Implemented API with `Django`.
         - Designed Core Function API. (Subscription, Offering lifecycle, DABS Allocation/Issue/List) 
