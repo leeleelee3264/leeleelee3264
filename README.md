@@ -1,5 +1,4 @@
 ![example workflow](https://github.com/leeleelee3264/leeleelee3264/actions/workflows/leelee_me_healthcheck.yaml/badge.svg)
-![example workflow](https://github.com/leeleelee3264/twitter_project/actions/workflows/netflix.yml/badge.svg)
 
 <br>
 
