@@ -101,8 +101,8 @@ I'm a Backend developer with multiple interests! Here is something about me. <br
 <br>
 
 ### 📝 Post
+- [[Class] 스프링 입문 - 코드로 배우는 스프링 부트, 웹 MVC, DB 접근 기술](https://leeleelee3264.github.io/post/2023-07-05-spring-lecture-one/)
 - [[Book] [따라하며 배우는 AWS 네트워크 입문] VPC, VPC 엔드포인트, 인터넷/NAT 게이트웨이](https://leeleelee3264.github.io/post/2023-03-27-introduction-to-aws-networking-first-session-part2/)
 - [[Infra] Nginx에 서브도메인 연결하기](https://leeleelee3264.github.io/post/2023-03-25-subdomain-with-nginx/)
 - [[Book] [따라하며 배우는 AWS 네트워크 입문] 서브넷 마스크, CIDR, VPC](https://leeleelee3264.github.io/post/2023-03-21-introduction-to-aws-networking-first-session-part1/)
 - [[General] 핀테크 스타트업에서 백엔드 엔지니어로 1년 근무한 소감](https://leeleelee3264.github.io/post/2023-03-01-review-kasa/)
-- [[Class] [예제로 배우는 스프링 입문] IoC, AOP, PSA 기초](https://leeleelee3264.github.io/post/2023-02-06-inflearn-spring-with-example-note/)
