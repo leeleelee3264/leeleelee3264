@@ -5,11 +5,7 @@ name: io_scrap
 
 on:
   schedule:
-    - cron: '30 11 * * Sun'
-  push:
-    branches: [ master ]
-  pull_request:
-    branches: [ master ]
+   - cron: '0 0 * * *' # Every midnight (12:00 AM)
 
 jobs:
   build:
