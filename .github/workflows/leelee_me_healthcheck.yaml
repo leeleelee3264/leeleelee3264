@@ -29,8 +29,9 @@ jobs:
           retry-all: false # Optional, defaults to "false"
       - name: Send mail
         if: failure()
-        uses: dawidd6/action-send-mail@v2
+        uses: dawidd6/action-send-mail@v3
         with:
+          secure: true
           # mail server settings
           server_address: smtp.gmail.com
           server_port: 465
