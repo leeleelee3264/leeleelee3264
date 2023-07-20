@@ -3,6 +3,11 @@ name: healthcheck
 on:
   schedule:
     - cron: '0 0 * * *' # Every midnight (12:00 AM)
+  push:
+    branches: [ master ]
+  pull_request:
+    branches: [ master ]
+    
 jobs:
   healthcheck:
 
