@@ -2,11 +2,11 @@ name: healthcheck
 
 on:
   schedule:
-    - cron: '0 0 * * *' # Every midnight (12:00 AM)
+    - cron: '0 0 * * *' # Every midnight (12:00 AM) 
   push:
-    branches: [ master ] 
+    branches: [ master ] # delete
   pull_request:
-    branches: [ master ]
+    branches: [ master ] # delete
     
 jobs:
   healthcheck:
