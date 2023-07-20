@@ -39,10 +39,10 @@ jobs:
           username: ${{ secrets.EMAIL_USERNAME }}
           password: ${{ secrets.EMAIL_PASSWORD }}
           # email subject
-          subject: ${{ github.job }} job of ${{ github.repository }} has ${{ job.status }}
+          subject: 🔥 leelee.me SERVER DOWN! 🔥
           # email body as text
-          body: ${{ github.job }} job in worflow ${{ github.workflow }} of ${{ github.repository }} has ${{ job.status }}
+          body: 🔥 leelee.me SERVER DOWN! 🔥 Please check home laptop is activating. 
           # comma-separated string, send email to
-          to: absinthe4902@naver.com
+          to: ${{ secrets.RECEIVER_EMAIL_USERNAME }}
           # from email name
-          from: absinthe4902-github
+          from: leeleelee3264-github
