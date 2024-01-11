@@ -14,7 +14,7 @@ I'm a DevOps Engineer thinking about what I can contribute to family, company an
 
 ### 🏛️ Career
 - Kakaostyle as **DevOps Engineer** (2023.12 ~ )
-    - TDB...
+    - TBD...
 
 - Kasa Singapore as **DevOps Engineer** (2022.12 ~ 2023.11)
     - Implemented SSO with Okta. 
