@@ -1,6 +1,3 @@
-![example workflow](https://github.com/leeleelee3264/leeleelee3264/actions/workflows/leelee_me_healthcheck.yaml/badge.svg)
-
-<br>
 
 ## LeeLee 
 Hi, I'm LeeLee. <br>
