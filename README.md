@@ -69,8 +69,8 @@ I'm a DevOps Engineer thinking about what I can contribute to family, company an
 <br>
 
 ### 📝 Post
+- [[General] shellscript로 kube-ps1 토글 기능 구현하기](https://leeleelee3264.github.io/post/2024-01-28-kube-ps1-toggle/)
+- [[General] DevOps Engineer에 최적화된 맥 설정하기](https://leeleelee3264.github.io/post/2024-01-17-mac-setting/)
 - [[Infra] CORS (3/3): Cache와 CORS](https://leeleelee3264.github.io/post/2023-09-26-cors-three/)
 - [[Infra] CORS (2/3): Cloudfront + s3 환경에서의 CORS](https://leeleelee3264.github.io/post/2023-09-25-cors-two/)
 - [[Infra] CORS (1/3): CORS란 무엇인가?](https://leeleelee3264.github.io/post/2023-09-24-cors-one/)
-- [[General] 이것만 있으면 나도 슈퍼 개발자? 생산성 앱 Raycast](https://leeleelee3264.github.io/post/2023-09-02-general-raycast/)
-- [[Seminar] 30분 투자로 CORS 전문가로 성장하기](https://leeleelee3264.github.io/post/2023-08-14-cors-seminar/)
