@@ -24,14 +24,14 @@ I'm a DevOps Engineer thinking about what I can contribute to family, company an
     - Implemented CI with `DroneCI`. 
     - Managed Github and AWS with `Terraform`.  
 
-- Kasa Singapore as **Backend developer** (2021.12 ~ 2022.12)
+- Kasa Singapore as **Backend Developer** (2021.12 ~ 2022.12)
     - Launched [[Digital Exchange for Global Assets, Kasa Singapore]](https://www.kasa.sg/).
         - Implemented API with `Django`.
         - Designed Core Function API. (Subscription, Offering lifecycle, DABS Allocation/Issue/List) 
         - Analyzed Requirements and Documented for entire Kasa Singapore Product to Improve Understanding Domain.
         - Applied Singapore government's Oauth mydata service, [[Singpass]](https://www.singpass.gov.sg/main/).
 
-- DNX Korea as **Backend developer** (2019.08 ~ 2021.11)
+- DNX Korea as **Backend Developer** (2019.08 ~ 2021.11)
     - Launched [[Elder Health Care Service, TouchCare]](https://www.youtube.com/watch?v=oMLnWmGjnyo&ab_channel=RangDnx).
         - Implemented API with `Spring`.
         - Implemented Operation website with Fullstack, Spring and Thymeleaf.
