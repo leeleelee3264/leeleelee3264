@@ -1,7 +1,7 @@
 
 ## LeeLee 
 Hi, I'm LeeLee. <br>
-I'm a DevOps Engineer thinking about what I can contribute to family, company and communities. Here is something about me. <br> 
+I'm a DevOps Engineer thinking about what I can contribute to companies and communities. Here is something about me. <br> 
 
 <br>
 
