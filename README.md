@@ -5,10 +5,10 @@ I'm a DevOps Engineer thinking about what I can contribute to companies and comm
 
 <br>
 
-### 🥇 2024 Goal
-- Joining Dev communities and hosting seminars.    <br> 
-- Contributing to open source. <br> 
-- Reading one book per month on development-related topics. <br> 
+### 🥇 2025 Goal
+- Publish tech blog posts at least 5. <br> 
+- Study for at least two hours on the weekend. <br>  
+
 
 <br>
 
@@ -17,14 +17,9 @@ I'm a DevOps Engineer thinking about what I can contribute to companies and comm
     - Applied refactoring `Terraform` Module for AWS
     - PoC with `Cloudflare` for prevention of bot crawling
     - Applied `Istio` in EKS cluster
-    - TBC...
+      
 
-- Kasa Singapore as **DevOps Engineer** (2022.12 ~ 2023.11)
-    - Implemented SSO with Okta. 
-    - Implemented CI with `DroneCI`. 
-    - Managed Github and AWS with `Terraform`.  
-
-- Kasa Singapore as **Backend Developer** (2021.12 ~ 2022.12)
+- Kasa Singapore as **Backend Developer** (2021.12 ~ 2023.11)
     - Launched [[Digital Exchange for Global Assets, Kasa Singapore]](https://www.kasa.sg/).
         - Implemented API with `Django`.
         - Designed Core Function API. (Subscription, Offering lifecycle, DABS Allocation/Issue/List) 
