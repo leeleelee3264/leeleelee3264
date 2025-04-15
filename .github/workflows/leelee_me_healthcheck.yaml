@@ -33,7 +33,8 @@ jobs:
           server_address: smtp.gmail.com
           server_port: 465
           # user credentials
-          username: ${{ secrets.EMAIL_USERNAME }}
+          #username: ${{ secrets.EMAIL_USERNAME }}
+          username: technicalleelee@gmail.com
           password: ${{ secrets.EMAIL_PASSWORD }}
           # email subject
           subject: 🔥 leelee.me SERVER DOWN! 🔥
@@ -44,3 +45,4 @@ jobs:
          #to: ${{ secrets.RECEIVER_EMAIL_USERNAME }}
           # from email name
           #from: leeleelee3264-github
+          from: technicalleelee@gmail.com
