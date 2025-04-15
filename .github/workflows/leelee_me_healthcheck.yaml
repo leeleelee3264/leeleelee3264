@@ -35,7 +35,7 @@ jobs:
           # user credentials
           #username: ${{ secrets.EMAIL_USERNAME }}
           username: technicalleelee@gmail.com
-          password: ${{ secrets.EMAIL_PASSWORD }}
+          password: ${{ secrets.TEST_EMAIL_PASSWORD }}
           # email subject
           subject: 🔥 leelee.me SERVER DOWN! 🔥
           # email body as text
