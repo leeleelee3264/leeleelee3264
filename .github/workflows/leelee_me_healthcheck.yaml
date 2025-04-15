@@ -3,6 +3,7 @@ name: healthcheck
 on:
   schedule:
     - cron: '0 0 * * *' # Every midnight (12:00 AM) 
+  workflow_dispatch: # Allows manual triggering via UI
     
 jobs:
   healthcheck:
@@ -39,6 +40,7 @@ jobs:
           # email body as text
           body: 🔥 leelee.me SERVER DOWN! 🔥 Please check home laptop is activating. 
           # comma-separated string, send email to
-          to: ${{ secrets.RECEIVER_EMAIL_USERNAME }}
+          to: leelee.3264@kakaostyle.com
+          #to: ${{ secrets.RECEIVER_EMAIL_USERNAME }}
           # from email name
           from: leeleelee3264-github
