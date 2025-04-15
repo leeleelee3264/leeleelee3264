@@ -43,4 +43,4 @@ jobs:
           #to: leelee.3264@kakaostyle.com
           to: ${{ secrets.RECEIVER_EMAIL_USERNAME }}
           # from email name
-          from: leeleelee3264-github
+          #from: leeleelee3264-github
