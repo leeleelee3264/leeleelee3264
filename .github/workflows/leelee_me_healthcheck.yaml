@@ -1,9 +1,9 @@
 name: healthcheck
 
-on:
-  schedule:
-    - cron: '0 0 * * *' # Every midnight (12:00 AM) 
-  workflow_dispatch: # Allows manual triggering via UI
+# on:
+#   schedule:
+#     - cron: '0 0 * * *' # Every midnight (12:00 AM) 
+#   workflow_dispatch: # Allows manual triggering via UI
     
 jobs:
   healthcheck:
